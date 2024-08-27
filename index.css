@@ -1,13 +1,13 @@
-.box{
-    width: 125px;
-    height: 240px;
-    border: 1px solid;
-    font-size: 40px;
+body{
+    width: 250px;
+    height: 480px;
+    font-size: 20px;
     text-align: center;
     margin: 50px;
-    background: rgb(66, 139, 139);
+    background: rgb(231, 238, 238);
 
-    float: right;
+  
+    
 
 }
 
